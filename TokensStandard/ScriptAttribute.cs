@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TokensStandart
+namespace TokensStandard
 {
     /// <summary>
     /// Method and class for this is generated from script on tokens

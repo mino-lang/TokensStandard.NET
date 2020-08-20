@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TokensStandart
+namespace TokensStandard
 {
     /// <summary>
     /// Target method was generated from tokens how constructor with name

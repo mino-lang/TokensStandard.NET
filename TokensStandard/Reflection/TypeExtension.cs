@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Reflection;
 
-namespace TokensStandart.Reflection
+namespace TokensStandard.Reflection
 {
     public static class TypeExtension
     {

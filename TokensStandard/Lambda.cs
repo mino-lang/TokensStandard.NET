@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TokensStandart
+namespace TokensStandard
 {
     public sealed class Lambda<T>
     {
